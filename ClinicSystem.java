@@ -104,7 +104,7 @@ public class ClinicSystem {
             clearConsole();
             System.out.println(Clinic.toString());
             System.out.println("---------------------------------------------");
-            System.out.println("[1] Pokaz dostepnych lekarzy");
+            System.out.println("[1] Pokaz dostepnych lekaszy");
             System.out.println("[2] Pokaz dostepne pielegniarki");
             System.out.println("[3] Pokaz dostepnych pacjentow");
             System.out.println("---------------------------------------------");
